@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated files
+public/assets/generated/
+
+# Secrets
+*.env
+*.key
+*.pem
